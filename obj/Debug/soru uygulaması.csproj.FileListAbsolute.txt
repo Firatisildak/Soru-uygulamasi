@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\bin\Debug\soru uygulaması.exe.config
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\bin\Debug\soru uygulaması.exe
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\bin\Debug\soru uygulaması.pdb
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru uygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru_uygulaması.Form1.resources
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru_uygulaması.Properties.Resources.resources
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru uygulaması.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru uygulaması.exe
+C:\Users\HP\source\repos\soru uygulaması\soru uygulaması\obj\Debug\soru uygulaması.pdb
